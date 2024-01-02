@@ -1,7 +1,7 @@
 ## **<div align="center">Hi, I'm Ivan👋</div>**  
   
 
-#### <div align="center">As student of Taras Shevchenko National University of Kyiv, I have gained valuable expirience in programming. In my laboratory works I have applied OOP principles to a range of projects as well as building requests to databases using SQL. My expertise in Java and data structures has enabled me to tackle complex programming chellanges and find effective solutions. Looking ahead, my goal is to become the best Java Backend Developer and continue honing my skills in this field.👨‍💻</div>  
+#### <div align="center">As student of Taras Shevchenko National University of Kyiv, I have gained valuable expirience in programming. At my first job I was able to work on a large multi-year project, which improved me as a specialist. My Java and DevOps skills have allowed me to solve complex programming problems and find effective solutions. Looking ahead, my goal is to become the best Java Backend Developer and continue sharpening my skills in this field.👨‍💻</div>  
   
 
 <br/>  
@@ -68,7 +68,7 @@
 <a href="https://t.me/tuckreker" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
-<a href="https://mail.google.com/mail/?view=cm&to=kondratovivanqq@gmail.com" target="_blank">
+<a href="mailto:kondratovivanqq@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>  
